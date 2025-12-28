@@ -15,7 +15,7 @@ https://dsc.gg/thetechhub**
 ## About Me
 
 - 🔭 I’m currently working on my own web
-- 🌱 I’m currently learning about expanding my knowledge
+- 🌱 I’m currently learning about .sh scripts for experience improvement on Linux
 - 🤔 I’m looking for someone who wants a Discord server
 - 💬 Ask me about HTML, PHP, or Linux!
 - 📫 How to reach me: [hello@salsac.at](hello@salsac.at) or .salsacat on Discord
