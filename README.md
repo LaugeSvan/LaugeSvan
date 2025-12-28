@@ -6,8 +6,11 @@ Welcome to my GitHub profile! I'm a passionate developer and technology
 enthusiast. Here you'll find a collection of my projects, code contributions,
 and more.
 
-**My Tech Help & Discussion Discord server:
-[https://dsc.gg/thetechhub](https://dsc.gg/thetechhub)**
+**My Interaction and Minecraft Discord server:
+https://dsc.gg/salsacat**
+
+**My Tech Help and Discussion Discord server:
+https://dsc.gg/thetechhub**
 
 ## About Me
 
@@ -24,11 +27,11 @@ and more.
 ### 🧠 Tech Stack
 [![Stack](https://skillicons.dev/icons?i=html,css,js,php,py,nodejs,discordjs,tailwind,mysql)](https://skillicons.dev)
 
-### 🔧 Tools & Platforms
+### 🔧 Tools and Platforms
 [![Tools](https://skillicons.dev/icons?i=vscode,git,github,discord,stackoverflow)](https://skillicons.dev)
 
-### 🖥️ OS & Hardware
-[![OS & Hardware](https://skillicons.dev/icons?i=windows,ubuntu,linux,raspberrypi)](https://skillicons.dev)
+### 🖥️ OS and Hardware
+[![OS and Hardware](https://skillicons.dev/icons?i=windows,ubuntu,linux,raspberrypi)](https://skillicons.dev)
 
 ## Projects
 
@@ -41,6 +44,6 @@ Here are some of my notable projects:
 
 ## Stats
 
-![](https://komarev.com/ghpvc/?username=LaugeSvan&color=grey&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=LaugeSvanandcolor=greyandabbreviated=true)
 
 **Thanks for visiting my profile!**<br>
