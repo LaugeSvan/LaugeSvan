@@ -44,6 +44,6 @@ Here are some of my notable projects:
 
 ## Stats
 
-![](https://komarev.com/ghpvc/?username=LaugeSvanandcolor=grey&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=LaugeSvan&color=grey&abbreviated=true)
 
 **Thanks for visiting my profile!**<br>
