@@ -9,9 +9,6 @@ and more.
 **My Interaction and Minecraft Discord server:
 https://dsc.gg/salsacat**
 
-**My Tech Help and Discussion Discord server: (archived)
-https://dsc.gg/thetechhub**
-
 ## About Me
 
 - 🔭 I’m currently working on my own web
