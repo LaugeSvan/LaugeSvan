@@ -36,7 +36,7 @@ Here are some of my notable projects:
 
 - [SalsaC.at](https://github.com/LaugeSvan/HomeSite): Although not a blog, this is my personal website
   where I share my projects and ideas.
-- [Pull The Cord](https://github.com/LaugeSvan/PTC): A 101 guide to Discord
+- [Pull The Cord](https://github.com/LaugeSvan/PullTheCord): A 101 guide to Discord
 - [B-O-G](https://github.com/LaugeSvan/B-O-G): Made with JavaScript, HTML, and CSS, this is a danish free, no login, learning platform.
 
 ## Stats
