@@ -26,3 +26,5 @@ and maybe some
 console.log("JavaScript!")
 ```
 I think you get it :)
+
+https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LaugeSvan&langs_count=20&layout=compact&theme=react&hide_border=false&bg_color=0d1117&title_color=34a89d&icon_color=bf91f3&text_color=70a5fd
